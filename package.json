@@ -1,0 +1,20 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "git cmd test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengsubei/test-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengsubei/test-git/issues"
+  },
+  "homepage": "https://github.com/zhengsubei/test-git#readme"
+}
